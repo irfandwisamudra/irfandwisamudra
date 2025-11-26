@@ -1,9 +1,9 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Irfan Dwi Samudra</h1>
 
-<p align="center">I’m a <b>Full-Stack Developer</b>. I can help you build a product, feature or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
+<p align="center">I’m a <b>Full Stack Web Developer</b>. I can help you build a product, feature or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
 
 # 💫 About Me:
-🔭 I’m currently studying on <b>Informatics Engineering at Trunojoyo Madura University</b><br>🌱 I’m currently learning <b>Full-Stack Development</b><br>💬 Ask me about <b>Programming & Technology</b><br>📫 How to reach me <b>irfandwisamudra08@gmail.com</b>
+🔭 I’m currently working on <b>some web projects</b><br>👯 I'm looking to collaborate on <b>open source projects</b><br>💬 Ask me about <b>web development</b><br>👨‍💻 All of my projects are available at <b>[https://irfandwisamudra.netlify.app](https://irfandwisamudra.netlify.app)</b>
 
 ## 🌐 Connect with me:
 [![Gmail Badge](https://img.shields.io/badge/-irfandwisamudra08@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irfandwisamudra08@gmail.com)](mailto:irfandwisamudra08@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfandwisamudra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfandw.s) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IrfanDwiSamudra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@irfandwisamudra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@irfandw.s)
@@ -17,4 +17,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irfandwisamudra&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=irfandwisamudra&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=testing&label=Profile%20views&color=0e75b6&style=flat)
