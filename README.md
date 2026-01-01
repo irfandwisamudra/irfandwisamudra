@@ -3,11 +3,11 @@
 <p align="center">I’m a <b>Full Stack Web Developer</b>. I can help you build a product, feature or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
 
 # 💫 About Me:
-🔭 I’m currently working on <b>some web projects</b>
+🔭 I’m currently working on <b>various web-based projects</b>
 <br/>
-👯 I'm looking to collaborate on <b>open source projects</b>
+👯 I’m looking to collaborate on <b>open source and real-world projects</b>
 <br/>
-💬 Ask me about <b>web development</b>
+💬 Ask me about <b>web development, backend systems, or frontend architecture</b>
 <br/>
 👨‍💻 All of my projects are available at <b>[https://irfandwisamudra.netlify.app](https://irfandwisamudra.netlify.app)</b>
 
