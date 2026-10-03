@@ -1,6 +1,6 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Irfan Dwi Samudra</h1>
 
-<p align="center">I’m a <b>Full Stack Web Developer</b>. I can help you build a product, feature or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
+<p align="center">I’m a <b>Software Engineer</b>. I can help you build a product, feature or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
 
 # 💫 About Me:
 🔭 I’m currently working on <b>various web-based projects</b>
