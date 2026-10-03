@@ -72,7 +72,7 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>  <br/>
-![](https://github-readme-activity-graph.vercel.app/graph/?username=irfandwisamudra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![](https://github-activity-graph.luckylinux.dev/graph/?username=irfandwisamudra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=irfandwisamudra&label=Profile%20views&color=0e75b6&style=flat)
